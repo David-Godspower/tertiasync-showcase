@@ -17,6 +17,22 @@ TertiaSync evolved from a past-question project initially started in 2025. In Ap
 
 The long-term vision is to become a standard synchronization layer for Nigerian higher education.
 
+
+## Preview
+
+<p align="center">
+  <img
+    src="screenshots/landing-page.png"
+    alt="TertiaSync Landing Page"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>The TertiaSync landing page — Academic Life, Synchronized.</em>
+</p>
+
+
 ## Key Features
 
 The platform brings together academic tools and resources, including:
