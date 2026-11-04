@@ -33,6 +33,22 @@ The long-term vision is to become a standard synchronization layer for Nigerian 
 </p>
 
 
+## Student Dashboard
+
+<p align="center">
+  <img
+    src="screenshots/dashboard.png"
+    alt="TertiaSync Student Dashboard"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>A connected academic workspace designed to help students manage their academic lives.</em>
+</p>
+
+
+
 ## Key Features
 
 The platform brings together academic tools and resources, including:
