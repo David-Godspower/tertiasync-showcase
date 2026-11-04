@@ -63,6 +63,49 @@ The long-term vision is to become a standard synchronization layer for Nigerian 
 </p>
 
 
+## CGPA Tracker
+
+<p align="center">
+  <img
+    src="screenshots/cgpa-tracker.png"
+    alt="TertiaSync CGPA Tracker"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>Monitor academic performance and keep track of your CGPA.</em>
+</p>
+
+
+## Study Planner
+
+<p align="center">
+  <img
+    src="screenshots/study-planner.png"
+    alt="TertiaSync Study Planner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>Plan study activities and bring more structure to academic preparation.</em>
+</p>
+
+## Study Planner
+
+<p align="center">
+  <img
+    src="screenshots/study-planner.png"
+    alt="TertiaSync Study Planner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>Plan study activities and bring more structure to academic preparation.</em>
+</p>
+
 
 ## Key Features
 
