@@ -1,121 +1,76 @@
 
-# TertiaSync
+<p align="center">
+  <img
+    src="screenshots/TertiaSync_logo_v2.png"
+    alt="TertiaSync Logo"
+    width="150"
+  />
+</p>
 
-### Academic Life, Synchronized.
+<h1 align="center">TertiaSync</h1>
 
-TertiaSync is an academic technology platform being developed to help students in Nigerian tertiary institutions organize and manage their academic lives through connected tools and resources.
+<p align="center">
+  <strong>Academic Life, Synchronized.</strong>
+</p>
 
-It is built around a simple vision: making academic life more organized, accessible and synchronized.
+<p align="center">
+  A centralized academic technology platform designed to help students
+  organize and manage their academic lives.
+</p>
 
-🌐 **Website:** https://tertiasync.com
+<p align="center">
+  <a href="https://tertiasync.com">Official Website</a>
+</p>
 
 ---
 
-## About the Project
+## About TertiaSync
 
-TertiaSync evolved from a past-question project initially started in 2025. In April 2026, the project grew into a broader academic platform designed to address multiple aspects of the student experience.
+TertiaSync is an academic technology platform being developed to help students in Nigerian tertiary institutions organize and manage their academic lives through connected tools and resources.
 
-The long-term vision is to become a standard synchronization layer for Nigerian higher education.
+The project evolved from a past-question initiative started in 2025 and expanded into a broader academic platform in April 2026.
 
+Its long-term vision is to become a standard synchronization layer for Nigerian higher education.
 
-## Preview
+## Product Showcase
 
-<p align="center">
-  <img
-    src="screenshots/landing-page.png"
-    alt="TertiaSync Landing Page"
-    width="100%"
-  />
-</p>
+### Landing Page
 
 <p align="center">
-  <em>The TertiaSync landing page — Academic Life, Synchronized.</em>
+  <img src="screenshots/landing-page.png" alt="TertiaSync Landing Page" width="100%" />
 </p>
 
-
-## Student Dashboard
+### Student Dashboard
 
 <p align="center">
-  <img
-    src="screenshots/dashboard.png"
-    alt="TertiaSync Student Dashboard"
-    width="100%"
-  />
+  <img src="screenshots/dashboard.png" alt="TertiaSync Student Dashboard" width="100%" />
 </p>
+
+### Past Question Archive
 
 <p align="center">
-  <em>A connected academic workspace designed to help students manage their academic lives.</em>
+  <img src="screenshots/archive.png" alt="TertiaSync Past Question Archive" width="100%" />
 </p>
 
-
-## Past Question Archive
+### CGPA Tracker
 
 <p align="center">
-  <img
-    src="screenshots/archive.png"
-    alt="TertiaSync Past Question Archive"
-    width="100%"
-  />
+  <img src="screenshots/cgpa-tracker.png" alt="TertiaSync CGPA Tracker" width="100%" />
 </p>
+
+### Study Planner
 
 <p align="center">
-  <em>Discover and access academic resources in one organized archive.</em>
+  <img src="screenshots/study-planner.png" alt="TertiaSync Study Planner" width="100%" />
 </p>
-
-
-## CGPA Tracker
-
-<p align="center">
-  <img
-    src="screenshots/cgpa-tracker.png"
-    alt="TertiaSync CGPA Tracker"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <em>Monitor academic performance and keep track of your CGPA.</em>
-</p>
-
-
-## Study Planner
-
-<p align="center">
-  <img
-    src="screenshots/study-planner.png"
-    alt="TertiaSync Study Planner"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <em>Plan study activities and bring more structure to academic preparation.</em>
-</p>
-
-## Study Planner
-
-<p align="center">
-  <img
-    src="screenshots/study-planner.png"
-    alt="TertiaSync Study Planner"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <em>Plan study activities and bring more structure to academic preparation.</em>
-</p>
-
 
 ## Key Features
 
-The platform brings together academic tools and resources, including:
+TertiaSync brings together essential academic tools and resources, including:
 
-- **Past Question Archive:** Access and discover academic resources.
-- **Academic Schedule:** Keep track of important academic activities.
+- **Past Question Archive:** Discover and access academic resources.
 - **CGPA Tracking:** Monitor academic performance.
-- **Study Planner:** Organize study activities.
-- **Departmental Updates:** Stay informed through department-level announcements.
+- **Study Planner:** Organize study activities and academic preparation.
 - **Community Contributions:** Contribute academic resources to the student community.
 - **Progressive Web App:** Access the platform through a web-based, app-like experience.
 
@@ -135,7 +90,7 @@ The platform brings together academic tools and resources, including:
 
 **Currently in development.**
 
-TertiaSync is being developed with an initial focus on students at LAUTECH, with a broader vision of supporting students across Nigerian tertiary institutions.
+TertiaSync is being developed with an initial focus on students at Ladoke Akintola University of Technology (LAUTECH), with plans to support students across Nigerian tertiary institutions.
 
 ## Project Vision
 
