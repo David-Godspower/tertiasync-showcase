@@ -48,6 +48,21 @@ The long-term vision is to become a standard synchronization layer for Nigerian 
 </p>
 
 
+## Past Question Archive
+
+<p align="center">
+  <img
+    src="screenshots/archive.png"
+    alt="TertiaSync Past Question Archive"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>Discover and access academic resources in one organized archive.</em>
+</p>
+
+
 
 ## Key Features
 
