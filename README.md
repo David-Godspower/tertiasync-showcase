@@ -87,7 +87,7 @@ TertiaSync is built with a modern web technology stack focused on reliability, m
 | Deployment | Vercel |
 | Application Experience | Progressive Web App (PWA) |
 
-## ## Platform Status
+## Platform Status
 
 **TertiaSync is live.**
 
